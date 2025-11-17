@@ -41,34 +41,26 @@ Fiber optic links can be used for transmission of digital as well as analog sign
 
 ---
 
-## BLOCK DIAGRAM
-
-*(Insert block diagram here)*
-
----
-
 ## CONNECTION DIAGRAM  
-**Setting up an Analog Link**
+![WhatsApp Image 2025-11-17 at 17 43 17_97aac6e5](https://github.com/user-attachments/assets/08e05114-0131-4618-ae3f-a9e51186c457)
 
-*(Insert connection diagram here)*
 
 ---
 
 ## TABULATION  
-**Transmission through Analog Link**
+![WhatsApp Image 2025-11-17 at 17 43 05_bae5718a](https://github.com/user-attachments/assets/3b1aaa7c-a397-49ea-941d-e2aa33967a72)
 
-| Frequency (Hz) | Output Signal Amplitude (Vo) | Gain = Vo/Vi | Gain in dB |
-|----------------|------------------------------|--------------|------------|
-|                |                              |              |            |
 
 ---
 
 ## MODEL GRAPH
-
-*(Insert model graph here)*
+![WhatsApp Image 2025-11-17 at 17 44 18_59f7b5b2](https://github.com/user-attachments/assets/5d07c065-f5bc-40f7-b396-b2f0830a1916)
 
 ---
 
-## RESULT
+## GRAPH
+![WhatsApp Image 2025-11-17 at 17 42 45_25de3912](https://github.com/user-attachments/assets/ee7c30ac-3bdf-46ef-8614-174c37dd2d01)
 
-*(Summarize observations and conclusions here)*
+
+## RESULT
+Thus the experimental results of analog fibre optic link is successfully implemented and verified.
